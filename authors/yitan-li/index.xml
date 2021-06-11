@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yitan Li | Wei Cao</title>
-    <link>https://weicao1990.github.io/authors/yitan-li/</link>
-      <atom:link href="https://weicao1990.github.io/authors/yitan-li/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/yitan-li/</link>
+      <atom:link href="/authors/yitan-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Yitan Li</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://weicao1990.github.io/img/icon-192.png</url>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Yitan Li</title>
-      <link>https://weicao1990.github.io/authors/yitan-li/</link>
+      <link>/authors/yitan-li/</link>
     </image>
     
     <item>
       <title>BRITS: bidirectional recurrent imputation for time series</title>
-      <link>https://weicao1990.github.io/publication/cao-2018-brits/</link>
+      <link>/publication/cao-2018-brits/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://weicao1990.github.io/publication/cao-2018-brits/</guid>
+      <guid>/publication/cao-2018-brits/</guid>
       <description></description>
     </item>
     

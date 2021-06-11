@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Haitao Wang | Wei Cao</title>
-    <link>https://weicao1990.github.io/authors/haitao-wang/</link>
-      <atom:link href="https://weicao1990.github.io/authors/haitao-wang/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/haitao-wang/</link>
+      <atom:link href="/authors/haitao-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Haitao Wang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://weicao1990.github.io/img/icon-192.png</url>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Haitao Wang</title>
-      <link>https://weicao1990.github.io/authors/haitao-wang/</link>
+      <link>/authors/haitao-wang/</link>
     </image>
     
     <item>
       <title>k-regret minimizing set: Efficient algorithms and hardness</title>
-      <link>https://weicao1990.github.io/publication/cao-2017-k/</link>
+      <link>/publication/cao-2017-k/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://weicao1990.github.io/publication/cao-2017-k/</guid>
+      <guid>/publication/cao-2017-k/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Balanced splitting on weighted intervals</title>
-      <link>https://weicao1990.github.io/publication/cao-2015-balanced/</link>
+      <link>/publication/cao-2015-balanced/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://weicao1990.github.io/publication/cao-2015-balanced/</guid>
+      <guid>/publication/cao-2015-balanced/</guid>
       <description></description>
     </item>
     

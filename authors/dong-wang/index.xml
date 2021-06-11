@@ -2,45 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dong Wang | Wei Cao</title>
-    <link>https://weicao1990.github.io/authors/dong-wang/</link>
-      <atom:link href="https://weicao1990.github.io/authors/dong-wang/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/dong-wang/</link>
+      <atom:link href="/authors/dong-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Dong Wang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://weicao1990.github.io/img/icon-192.png</url>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Dong Wang</title>
-      <link>https://weicao1990.github.io/authors/dong-wang/</link>
+      <link>/authors/dong-wang/</link>
     </image>
     
     <item>
+      <title>LMVP: Video Predictor with Leaked Motion Information</title>
+      <link>/publication/wang-2019-lmvp/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/wang-2019-lmvp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>BRITS: bidirectional recurrent imputation for time series</title>
-      <link>https://weicao1990.github.io/publication/cao-2018-brits/</link>
+      <link>/publication/cao-2018-brits/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://weicao1990.github.io/publication/cao-2018-brits/</guid>
+      <guid>/publication/cao-2018-brits/</guid>
       <description></description>
     </item>
     
     <item>
       <title>When will you arrive? estimating travel time based on deep neural networks</title>
-      <link>https://weicao1990.github.io/publication/wang-2018-will/</link>
+      <link>/publication/wang-2018-will/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://weicao1990.github.io/publication/wang-2018-will/</guid>
+      <guid>/publication/wang-2018-will/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DeepSD: supply-demand prediction for online car-hailing services using deep neural networks</title>
-      <link>https://weicao1990.github.io/publication/wang-2017-deepsd/</link>
+      <link>/publication/wang-2017-deepsd/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://weicao1990.github.io/publication/wang-2017-deepsd/</guid>
+      <guid>/publication/wang-2017-deepsd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automatic user identification method across heterogeneous mobility data sources</title>
-      <link>https://weicao1990.github.io/publication/cao-2016-automatic/</link>
+      <link>/publication/cao-2016-automatic/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://weicao1990.github.io/publication/cao-2016-automatic/</guid>
+      <guid>/publication/cao-2016-automatic/</guid>
       <description></description>
     </item>
     

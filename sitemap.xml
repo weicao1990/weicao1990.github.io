@@ -1,235 +1,194 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://weicao1990.github.io/publication_types/2/</loc>
+    <loc>/project/covid-forecasting/</loc>
+    <lastmod>2021-06-11T17:05:22+08:00</lastmod>
+  </url><url>
+    <loc>/project/</loc>
+    <lastmod>2021-06-11T17:05:22+08:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2021-06-11T17:05:22+08:00</lastmod>
+  </url><url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2021-06-11T16:55:30+08:00</lastmod>
+  </url><url>
+    <loc>/authors/</loc>
+    <lastmod>2021-06-11T16:55:30+08:00</lastmod>
+  </url><url>
+    <loc>/authors/disheng-tang/</loc>
+    <lastmod>2021-06-11T16:55:30+08:00</lastmod>
+  </url><url>
+    <loc>/publication/tang-2021-impact/</loc>
+    <lastmod>2021-06-11T16:55:30+08:00</lastmod>
+  </url><url>
+    <loc>/authors/jiang-bian/</loc>
+    <lastmod>2021-06-11T16:55:30+08:00</lastmod>
+  </url><url>
+    <loc>/authors/jue-liu/</loc>
+    <lastmod>2021-06-11T16:55:30+08:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2021-06-11T16:55:30+08:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2021-06-11T16:55:30+08:00</lastmod>
+  </url><url>
+    <loc>/authors/shun-zheng/</loc>
+    <lastmod>2021-06-11T16:55:30+08:00</lastmod>
+  </url><url>
+    <loc>/authors/tie-yan-liu/</loc>
+    <lastmod>2021-06-11T16:55:30+08:00</lastmod>
+  </url><url>
+    <loc>/authors/wei-cao/</loc>
+    <lastmod>2021-06-11T16:55:30+08:00</lastmod>
+  </url><url>
+    <loc>/authors/zhifeng-gao/</loc>
+    <lastmod>2021-06-11T16:55:30+08:00</lastmod>
+  </url><url>
+    <loc>/authors/chi-chen/</loc>
+    <lastmod>2021-06-11T16:55:29+08:00</lastmod>
+  </url><url>
+    <loc>/authors/chunxiao-xing/</loc>
+    <lastmod>2021-06-11T16:55:29+08:00</lastmod>
+  </url><url>
+    <loc>/authors/jing-jiang/</loc>
+    <lastmod>2021-06-11T16:55:30+08:00</lastmod>
+  </url><url>
+    <loc>/authors/li-zhao/</loc>
+    <lastmod>2021-06-11T16:55:29+08:00</lastmod>
+  </url><url>
+    <loc>/publication/liu-2020-mesa/</loc>
+    <lastmod>2021-06-11T16:55:30+08:00</lastmod>
+  </url><url>
+    <loc>/authors/pengfei-wei/</loc>
+    <lastmod>2021-06-11T16:55:30+08:00</lastmod>
+  </url><url>
+    <loc>/publication/chen-2020-trimming/</loc>
+    <lastmod>2021-06-11T16:55:29+08:00</lastmod>
+  </url><url>
+    <loc>/authors/yi-chang/</loc>
+    <lastmod>2021-06-11T16:55:30+08:00</lastmod>
+  </url><url>
+    <loc>/authors/zhining-liu/</loc>
+    <lastmod>2021-06-11T16:55:30+08:00</lastmod>
+  </url><url>
+    <loc>/publication/zheng-2019-doc-2-edag/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weicao1990.github.io/authors/</loc>
+  </url><url>
+    <loc>/authors/dong-wang/</loc>
+    <lastmod>2021-06-11T16:55:29+08:00</lastmod>
+  </url><url>
+    <loc>/authors/hechang-chen/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weicao1990.github.io/publication/zheng-2019-doc-2-edag/</loc>
+  </url><url>
+    <loc>/authors/lawrence-carin/</loc>
+    <lastmod>2021-06-11T16:55:29+08:00</lastmod>
+  </url><url>
+    <loc>/authors/liqun-chen/</loc>
+    <lastmod>2021-06-11T16:55:29+08:00</lastmod>
+  </url><url>
+    <loc>/publication/wang-2019-lmvp/</loc>
+    <lastmod>2021-06-11T16:55:29+08:00</lastmod>
+  </url><url>
+    <loc>/authors/qi-wei/</loc>
+    <lastmod>2021-06-11T16:55:29+08:00</lastmod>
+  </url><url>
+    <loc>/publication/liu-2019-self/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weicao1990.github.io/authors/hechang-chen/</loc>
+  </url><url>
+    <loc>/authors/wei-xu/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weicao1990.github.io/authors/jiang-bian/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weicao1990.github.io/publication_types/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weicao1990.github.io/publication/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weicao1990.github.io/publication/liu-2019-self/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weicao1990.github.io/authors/shun-zheng/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weicao1990.github.io/authors/tie-yan-liu/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weicao1990.github.io/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weicao1990.github.io/authors/wei-cao/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weicao1990.github.io/authors/wei-xu/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weicao1990.github.io/authors/yi-chang/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weicao1990.github.io/authors/zhifeng-gao/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weicao1990.github.io/authors/zhining-liu/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weicao1990.github.io/publication_types/1/</loc>
+  </url><url>
+    <loc>/authors/yitong-li/</loc>
+    <lastmod>2021-06-11T16:55:29+08:00</lastmod>
+  </url><url>
+    <loc>/publication-type/1/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weicao1990.github.io/publication/cao-2018-brits/</loc>
+  </url><url>
+    <loc>/publication/cao-2018-brits/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weicao1990.github.io/authors/dong-wang/</loc>
+  </url><url>
+    <loc>/authors/hao-zhou/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weicao1990.github.io/authors/hao-zhou/</loc>
+  </url><url>
+    <loc>/authors/jian-li/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weicao1990.github.io/authors/jian-li/</loc>
+  </url><url>
+    <loc>/authors/junbo-zhang/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weicao1990.github.io/authors/junbo-zhang/</loc>
+  </url><url>
+    <loc>/authors/lei-li/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weicao1990.github.io/authors/lei-li/</loc>
+  </url><url>
+    <loc>/publication/wang-2018-will/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weicao1990.github.io/publication/wang-2018-will/</loc>
+  </url><url>
+    <loc>/authors/yitan-li/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weicao1990.github.io/authors/yitan-li/</loc>
+  </url><url>
+    <loc>/authors/yu-zheng/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weicao1990.github.io/authors/yu-zheng/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weicao1990.github.io/publication/wang-2017-deepsd/</loc>
+  </url><url>
+    <loc>/publication/wang-2017-deepsd/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weicao1990.github.io/authors/haitao-wang/</loc>
+  </url><url>
+    <loc>/authors/haitao-wang/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weicao1990.github.io/authors/jieping-ye/</loc>
+  </url><url>
+    <loc>/authors/jieping-ye/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weicao1990.github.io/publication/cao-2017-k/</loc>
+  </url><url>
+    <loc>/publication/cao-2017-k/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weicao1990.github.io/authors/kangning-wang/</loc>
+  </url><url>
+    <loc>/authors/kangning-wang/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weicao1990.github.io/authors/raymond-chi-wing-wong/</loc>
+  </url><url>
+    <loc>/authors/raymond-chi-wing-wong/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weicao1990.github.io/authors/ruosong-wang/</loc>
+  </url><url>
+    <loc>/authors/ruosong-wang/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weicao1990.github.io/authors/wei-zhan/</loc>
+  </url><url>
+    <loc>/authors/wei-zhan/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weicao1990.github.io/publication/cao-2016-automatic/</loc>
+  </url><url>
+    <loc>/publication/cao-2016-automatic/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weicao1990.github.io/authors/haishan-wu/</loc>
+  </url><url>
+    <loc>/authors/haishan-wu/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weicao1990.github.io/authors/zhengwei-wu/</loc>
+  </url><url>
+    <loc>/authors/zhengwei-wu/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weicao1990.github.io/publication/cao-2015-balanced/</loc>
+  </url><url>
+    <loc>/publication/cao-2015-balanced/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weicao1990.github.io/publication/cao-2015-top/</loc>
+  </url><url>
+    <loc>/publication/cao-2015-top/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weicao1990.github.io/authors/shimin-li/</loc>
+  </url><url>
+    <loc>/authors/shimin-li/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weicao1990.github.io/authors/yufei-tao/</loc>
+  </url><url>
+    <loc>/authors/yufei-tao/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://weicao1990.github.io/authors/zhize-li/</loc>
+  </url><url>
+    <loc>/authors/zhize-li/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/admin/</loc>
+  </url><url>
+    <loc>/authors/admin/</loc>
+  </url><url>
+    <loc>/categories/</loc>
+  </url><url>
+    <loc>/post/</loc>
+  </url><url>
+    <loc>/talk/</loc>
+  </url><url>
+    <loc>/tags/</loc>
   </url>
-  
-  <url>
-    <loc>https://weicao1990.github.io/authors/admin/</loc>
-  </url>
-  
-  <url>
-    <loc>https://weicao1990.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://weicao1990.github.io/post/</loc>
-  </url>
-  
-  <url>
-    <loc>https://weicao1990.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://weicao1990.github.io/tags/</loc>
-  </url>
-  
 </urlset>

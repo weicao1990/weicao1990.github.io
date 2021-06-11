@@ -2,21 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tie-Yan Liu | Wei Cao</title>
-    <link>https://weicao1990.github.io/authors/tie-yan-liu/</link>
-      <atom:link href="https://weicao1990.github.io/authors/tie-yan-liu/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/tie-yan-liu/</link>
+      <atom:link href="/authors/tie-yan-liu/index.xml" rel="self" type="application/rss+xml" />
     <description>Tie-Yan Liu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://weicao1990.github.io/img/icon-192.png</url>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Tie-Yan Liu</title>
-      <link>https://weicao1990.github.io/authors/tie-yan-liu/</link>
+      <link>/authors/tie-yan-liu/</link>
     </image>
     
     <item>
+      <title>Impact of pandemic fatigue on the spread of COVID-19: a mathematical modelling study</title>
+      <link>/publication/tang-2021-impact/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/tang-2021-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Self-paced Ensemble for Highly Imbalanced Massive Data Classification</title>
-      <link>https://weicao1990.github.io/publication/liu-2019-self/</link>
+      <link>/publication/liu-2019-self/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://weicao1990.github.io/publication/liu-2019-self/</guid>
+      <guid>/publication/liu-2019-self/</guid>
       <description></description>
     </item>
     
