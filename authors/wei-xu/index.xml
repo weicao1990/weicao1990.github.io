@@ -5,12 +5,20 @@
     <link>/authors/wei-xu/</link>
       <atom:link href="/authors/wei-xu/index.xml" rel="self" type="application/rss+xml" />
     <description>Wei Xu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Wei Xu</title>
       <link>/authors/wei-xu/</link>
     </image>
+    
+    <item>
+      <title>Revisiting the evaluation of end-to-end event extraction</title>
+      <link>/publication/zheng-2021-revisiting/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/zheng-2021-revisiting/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Doc2EDAG: An End-to-End Document-level Framework for Chinese Financial Event Extraction</title>

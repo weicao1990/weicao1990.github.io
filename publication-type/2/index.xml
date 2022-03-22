@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>Evaluation of individual and ensemble probabilistic forecasts of COVID-19 mortality in the US</title>
+      <link>/publication/cramer-2021-evaluation/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/cramer-2021-evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Impact of pandemic fatigue on the spread of COVID-19: a mathematical modelling study</title>
       <link>/publication/tang-2021-impact/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
@@ -21,18 +29,18 @@
     </item>
     
     <item>
-      <title>MESA: Boost Ensemble Imbalanced Learning with MEta-SAmpler</title>
-      <link>/publication/liu-2020-mesa/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/liu-2020-mesa/</guid>
+      <title>Towards Inter-class and Intra-class Imbalance in Class-imbalanced Learning</title>
+      <link>/publication/liu-2021-towards/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/liu-2021-towards/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Trimming the Sail: A Second-order Learning Paradigm for Stock Prediction</title>
-      <link>/publication/chen-2020-trimming/</link>
+      <title>MESA: Boost Ensemble Imbalanced Learning with MEta-SAmpler</title>
+      <link>/publication/liu-2020-mesa/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/chen-2020-trimming/</guid>
+      <guid>/publication/liu-2020-mesa/</guid>
       <description></description>
     </item>
     

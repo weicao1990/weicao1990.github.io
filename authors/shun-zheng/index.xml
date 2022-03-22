@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>HierST: A Unified Hierarchical Spatial-temporal Framework for COVID-19 Trend Forecasting</title>
+      <link>/publication/zheng-2021-hierst/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/zheng-2021-hierst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Impact of pandemic fatigue on the spread of COVID-19: a mathematical modelling study</title>
       <link>/publication/tang-2021-impact/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/publication/tang-2021-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting the evaluation of end-to-end event extraction</title>
+      <link>/publication/zheng-2021-revisiting/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/zheng-2021-revisiting/</guid>
       <description></description>
     </item>
     
